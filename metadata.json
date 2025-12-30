@@ -1,0 +1,5 @@
+{
+  "name": "Kids Drawing App",
+  "description": "A fun and simple drawing application designed for kids, featuring a canvas, color picker, adjustable brush size, eraser, and undo/redo functionality for creative expression.",
+  "requestFramePermissions": []
+}
